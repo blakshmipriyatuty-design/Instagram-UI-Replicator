@@ -36,18 +36,18 @@ Figma
 
 # Screenshots
 1.Home
-<img width="440" height="956" alt="Home" src="https://github.com/user-attachments/assets/0965c77a-2d23-4177-895e-4ae1e273e2c6" />
+<img width="150" height="300" alt="Home" src="https://github.com/user-attachments/assets/0965c77a-2d23-4177-895e-4ae1e273e2c6" />
 
 2.Create Post
-<img width="440" height="956" alt="Create Post" src="https://github.com/user-attachments/assets/0d806107-e177-44fb-8eff-56a82935cc6d" />
+<img width="150" height="300" alt="Create Post" src="https://github.com/user-attachments/assets/0d806107-e177-44fb-8eff-56a82935cc6d" />
 
 3.Explore/Search
 
 4.Profile
-<img width="440" height="956" alt="Profile" src="https://github.com/user-attachments/assets/3d4896fb-bdec-4060-a97d-e71c3e05b8e7" />
+<img width="150" height="300" alt="Profile" src="https://github.com/user-attachments/assets/3d4896fb-bdec-4060-a97d-e71c3e05b8e7" />
 
 5.Settings
-<img width="440" height="956" alt="Settings (3)" src="https://github.com/user-attachments/assets/d4bb0958-73c3-4ba5-b459-64932ee7208f" />
+<img width="150" height="300" alt="Settings (3)" src="https://github.com/user-attachments/assets/d4bb0958-73c3-4ba5-b459-64932ee7208f" />
 
 # Figma prototype Link 
 https://www.figma.com/design/GZNjjZyr8ttLXZkX5j0WiV/Instagram-UI-Replicator?node-id=7-70&t=EMkCGfa3KYBuv4Sy-1
